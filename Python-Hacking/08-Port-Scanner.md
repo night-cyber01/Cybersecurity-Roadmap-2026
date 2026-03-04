@@ -7,7 +7,7 @@ Input: Takes an IP address as an argument.
 Loop: Iterates through a range of ports (1-85).
 Connection: Uses s.connect_ex() which returns 0 on success (Open Port) and an error code on failure (Closed/Filtered).
 Timeout: Set to 1 second to prevent hanging.
-Evidence: Copia y pega la salida de tu terminal al escanear 127.0.0.1. 
+Evidence: 
 
 
 Escaneando objetivo: 10.0.0.1
